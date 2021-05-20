@@ -3,7 +3,7 @@
  and establishes the character set for communications. */
 
  // Connect:
- $dbc = mysqli_connect('localhost', 'ranrah5_wp', 'Ranooda_83', 'ranrah5_wp');
+ $dbc = mysqli_connect('localhost', 'database_wp', 'Password', 'database_wp');
  
  print '<p>Successfully connected to the database!</p>';
 
